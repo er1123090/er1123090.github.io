@@ -36,8 +36,3 @@ https://er1123090.github.io/
 
 - Source site: https://sites.google.com/view/minseo-eric-kim
 - CV source: https://drive.google.com/open?id=1gFWzfHN4OFVe0zYKHBv3wis-K48punGLrZ7Q6xbkFGQ
-- The public Contact section uses the Google Sites homepage footer address:
-  `Room 503, IT/BT Building, 222, Wangsimni-ro, Seongdong-gu, Seoul, 04763, Korea.`
-- The embedded CV text currently lists a different office address:
-  `Room 504-1, Engineering Center Annex Building`.
-  This should be reviewed before future content updates.
