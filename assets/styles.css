@@ -220,6 +220,13 @@ h2 {
   font-size: 1.45rem;
 }
 
+.heading-link {
+  float: right;
+  margin-top: 0.22rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
 h3 {
   margin: 0;
   font-size: 1rem;
@@ -232,6 +239,11 @@ p {
 
 .section-body p:last-child {
   margin-bottom: 0;
+}
+
+.page-intro {
+  color: var(--muted);
+  margin-top: -8px;
 }
 
 .compact-list,
